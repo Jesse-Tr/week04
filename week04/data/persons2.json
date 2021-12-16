@@ -1,0 +1,24 @@
+[
+  
+  {
+    "name": "NICKNAME: Joe",
+    "phone": "707-123-4567",
+    "email": "johnd@gmail.com",
+    "id": 1
+
+  },
+  {
+    "name": "NICKNAME: Jan",
+    "phone": "707-987-6543",
+    "email": "jdoe@gmail.com",
+    "id": 2
+
+  },
+  {
+    "name": "NICKNAME: Bob buck",
+    "phone": "707-100-0101",
+    "email": "Dbuck@gmail.com",
+    "id": 3
+
+  }
+]
